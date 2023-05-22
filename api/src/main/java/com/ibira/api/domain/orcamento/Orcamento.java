@@ -10,8 +10,6 @@ import lombok.NoArgsConstructor;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 
-import static com.ibira.api.domain.orcamento.StatusOrcamento.CALCULANDO;
-
 @Entity(name = "Orcamento")
 @Table(name = "orcamentos")
 @Getter
