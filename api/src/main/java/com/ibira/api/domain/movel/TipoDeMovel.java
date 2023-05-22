@@ -1,0 +1,15 @@
+package com.ibira.api.domain.movel;
+
+public enum TipoDeMovel {
+    ARMARIO_AEREO,
+    ARMARIO_BASCULANTE,
+    ARMARIO_INFERIOR,
+    GABINETE,
+    GAVETEIRO_VERTICAL,
+    GAVETEIRO_HORIZONTAL,
+    PORTA_OLEO,
+    GUARDA_ROUPAS,
+    NICHO,
+    PRATELEIRA,
+    PANELEIRO
+}
